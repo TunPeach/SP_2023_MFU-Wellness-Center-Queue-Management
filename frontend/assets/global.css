@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: "Kanit";
+    src: local("Kanit"),
+     url(~assets/Kanit-Regular.ttf) format("truetype");
+}
+
+html {
+    font-family: "Kanit";
+}
